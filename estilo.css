@@ -2,6 +2,12 @@ body{
     background-color: rgb(253, 170, 170);
 }
 
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+}
+
 .textos{
     text-align: center;
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
